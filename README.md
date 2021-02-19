@@ -3,7 +3,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=danbiilee&show_icons=true&locale=en)
 
----
 ### 👀 About Me
 ```js
 class FrontEnd extends Developer {
