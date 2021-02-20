@@ -5,24 +5,13 @@
 
 ### 👀 About Me
 ```js
-class FrontEnd extends Developer {
-  
+const danbiLee = {
+  title: 'front-end developer',
+  languages: ['JavaScript', 'Java'],
+  skills: ['React', 'HTML', 'CSS', 'SCSS', 'Redux', 'D3.js'],
+  database: ['Oracle', 'MySQL', 'MongoDB'],
+  toStudyList: ['TypeScript', 'Jest', 'Babel', 'Webpack']
 }
 ```
 
 
-<!--
-### Hi there 👋
-**danbiilee/danbiilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
