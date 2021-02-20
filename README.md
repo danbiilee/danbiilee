@@ -1,10 +1,8 @@
 
-# Hi, I'm Danbi😉👋
-
-![](https://github-readme-stats.vercel.app/api?username=danbiilee&show_icons=true&locale=en)
+# Hi, there😉👋
 
 ### 👀 About Me
-```js
+```
 const danbiLee = {
   title: 'front-end developer',
   languages: ['JavaScript', 'Java'],
@@ -13,5 +11,7 @@ const danbiLee = {
   toStudyList: ['TypeScript', 'Jest', 'Babel', 'Webpack']
 }
 ```
+
+![](https://github-readme-stats.vercel.app/api?username=danbiilee&show_icons=true&locale=en)
 
 
