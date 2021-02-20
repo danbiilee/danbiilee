@@ -2,7 +2,7 @@
 # Hi, there😉👋
 
 ### 👀 About Me
-```
+```js
 const danbiLee = {
   title: 'front-end developer',
   languages: ['JavaScript', 'Java'],
