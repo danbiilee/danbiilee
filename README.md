@@ -5,10 +5,10 @@
 ```js
 const danbiLee = {
   title: 'front-end developer',
-  languages: ['JavaScript', 'Java'],
+  languages: ['JavaScript', 'TypeScript', 'Java'],
   skills: ['React', 'HTML', 'CSS', 'SCSS', 'Redux', 'D3.js'],
   database: ['Oracle', 'MySQL', 'MongoDB'],
-  toStudyList: ['TypeScript', 'Jest', 'Babel', 'Webpack']
+  toStudyList: ['Jest', 'Babel', 'Webpack']
 }
 ```
 
